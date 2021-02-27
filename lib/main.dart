@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         primaryColor: cPrimaryColor,
         accentColor: cPrimaryColor,
       ),
-      home: ProductsScreen(),
+      home: HaberScreen(),
     );
   }
 }

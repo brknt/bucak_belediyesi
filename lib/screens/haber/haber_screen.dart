@@ -3,7 +3,7 @@ import 'package:burdur_bucak_app/screens/components/body.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
-class ProductsScreen extends StatelessWidget {
+class HaberScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
